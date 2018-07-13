@@ -45,7 +45,7 @@ Create a category "Woman Clothes" that will show content of CMS block instead of
 
 Create a category "Cart Parts" with three subcategories: "Volvo", "BMW", "Mercedes".
 
-### CAT4. Task
+#### CAT4. Task
 
 Create a "Music" category and specify information for search engines. Make sure information is on the frontend page.
 
@@ -55,9 +55,12 @@ Merchant needs to create a menu on the store with three sections: "Office chairs
 
 ### Products
 
+#### CAT. TASK
+
+Create a simple product "Black Leather chair" with SKU "BLK-LTHR-CHR02" and an image attached.
+
 ## Sales (SAL)
 
-TBD
 
 ### Orders
 
@@ -97,7 +100,23 @@ TBD
 
 ### CMS pages/CMS blocks
 
-TBD
+#### CNT1. Task
+
+Create a CMS page with name "About Us". 
+
+#### CNT2. Case
+
+Marchant wants to have a static page where information about his shipping policy described to the customers.
+
+#### CNT3. Case
+
+Merchant looks into a way of managing the same block of information about promotions on "Diving Tools" category and "Diving is Fun" page.
+
+#### CNT4. Case
+
+Marchant wants to have a place on the store where will be rendered a information for search engines: 
+
+"Check out our extensive range of chairs, seats & stools. Find inspiration and ideas for your home at YOURCHAIR.COM today." 
 
 ## System (SYS)
 
