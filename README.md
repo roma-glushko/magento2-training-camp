@@ -41,13 +41,17 @@ The merchant wants to see the store portfolio (screenshots and descriptions from
 
 Create a category "Woman Clothes" that will show content of CMS block instead of product list.
 
-#### CAT3. TASK
+#### CAT3. Task
 
 Create a category "Cart Parts" with three subcategories: "Volvo", "BMW", "Mercedes".
 
-### CAT4. TASK
+### CAT4. Task
 
 Create a "Music" category and specify information for search engines. Make sure information is on the frontend page.
+
+#### CAT5. Case
+
+Merchant needs to create a menu on the store with three sections: "Office chairs", "High chairs" and "Armchairs". Under all of them, 1 product will be sold.
 
 ### Products
 
