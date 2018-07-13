@@ -37,6 +37,18 @@ The `Computer Mouse` category should contain one product with computer mouse par
 The `Computer Keyboard` should contain two products with computer keyboard params (name, SKU, image, short description, description ...).
 The merchant wants to see the store portfolio (screenshots and descriptions from storefront).
 
+#### CAT2. Task
+
+Create a category "Woman Clothes" that will show content of CMS block instead of product list.
+
+#### CAT3. TASK
+
+Create a category "Cart Parts" with three subcategories: "Volvo", "BMW", "Mercedes".
+
+### CAT4. TASK
+
+Create a "Music" category and specify information for search engines. Make sure information is on the frontend page.
+
 ### Products
 
 ## Sales (SAL)
