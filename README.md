@@ -132,4 +132,6 @@ TBD
 
 ## E-Commerce (ECM)
 
-TBD
+### ECM-1. Question
+
+What's drop-shipping? 
