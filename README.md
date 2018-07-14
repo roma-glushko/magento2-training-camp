@@ -135,3 +135,7 @@ TBD
 ### ECM-1. Question
 
 What's drop-shipping? 
+
+### ECM-2. Question
+
+What is it "Omnichannel" and "Multichannel"? What's difference between those strategies? 
