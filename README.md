@@ -139,3 +139,7 @@ What's drop-shipping?
 ### ECM-2. Question
 
 What is it "Omnichannel" and "Multichannel"? What's difference between those strategies? 
+
+### ECM-3. Question
+
+What is it Google Analytics? What's a purpose using it on the website? Which kind of information can be analized?
