@@ -90,7 +90,17 @@ TBD
 
 ## Customer (CST)
 
-TBD
+### CST-1. Task
+
+Register in the store as a customer.
+
+### CST-2. Task
+
+Create a customer from Magento Admin. Specify the default billing and shipping addresses.
+
+### CST-3. Task
+
+Add a befault billing and shipping address for registred customer.
 
 ## Marketing (MRK)
 
