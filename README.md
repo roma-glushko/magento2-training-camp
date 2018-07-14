@@ -28,7 +28,7 @@ Merchant sells beding products to Germany, France and U.K. What optimal/simplest
 
 #### STS-SC-1. Case
 
-Merchan from Florida wants to see admin panel in his local time.
+Merchant from Florida wants to see admin panel in his local time.
 
 ## Catalog (CAT)
 
