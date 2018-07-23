@@ -103,6 +103,14 @@ Buy a product on the store as visitor.
 
 Buy a product on the store as customer.
 
+### CO-3. Task
+
+Configure the PayPal payment method with sandbox mode. 
+Create paypal account and provide all needed data to Magento configurations.
+Create order via PayPal payment method.
+Interest links: https://devdocs.magento.com/guides/v2.2/cloud/live/paypal-onboarding.html
+https://mage2.pro/t/topic/1083
+
 ## Customer (CST)
 
 ### CST-1. Task
