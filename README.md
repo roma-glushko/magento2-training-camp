@@ -73,9 +73,13 @@ Merchant wants to sell t-shirts. Each t-shirt has black and white color variatio
 
 ### Orders
 
-### SAL-OR-1. Task
+#### SAL-OR-1. Task
 
 Create order from the admin panel.
+
+#### SAL-OR-2. Task
+
+
 
 ### Shipments
 
