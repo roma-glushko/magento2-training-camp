@@ -3,7 +3,6 @@
 Magento 2 Solution Specialist Training Camp is a study programm that helps you to get familiar with Magento 2 platform 
 via tasks, use cases, user stories.
 
-
 ## Store Setup (STS)
 
 ### Store Structure (Website/Store/Store View)
@@ -65,12 +64,18 @@ Merchant needs to create a menu on the store with three sections: "Office chairs
 
 Create a simple product "Black Leather chair" with SKU "BLK-LTHR-CHR02" and an image attached.
 
+#### CAT-PR-2. Case
+
+Merchant wants to sell t-shirts. Each t-shirt has black and white color variations, three different sizes (S, M, L). Can you please create a couple of products as an example of how that can be configured with Magento.
+
 ## Sales (SAL)
 
 
 ### Orders
 
-TBD
+### SAL-OR-1. Task
+
+Create order from the admin panel.
 
 ### Shipments
 
@@ -86,7 +91,13 @@ TBD
 
 ## Checkout (CO)
 
-TBD
+### CO-1. Task
+
+Buy a product on the store as visitor.
+
+### CO-2. Task
+
+Buy a product on the store as customer.
 
 ## Customer (CST)
 
@@ -153,3 +164,9 @@ What is it "Omnichannel" and "Multichannel"? What's difference between those str
 ### ECM-3. Question
 
 What is it Google Analytics? What's a purpose using it on the website? Which kind of information can be analized?
+
+## Magento Architecture (MGA)
+
+### MGA-1. Question 
+
+What is it Magento Cache?
