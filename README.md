@@ -122,6 +122,10 @@ Provide the test orders screenshots.
 Merchant wants to use the Table Rates shipping method for using only for United States country.
 Create test orders and provide the screenshots.
 
+### CO-6. Task
+
+Create the order and reorder it via customer account.
+
 ## Customer (CST)
 
 ### CST-1. Task
