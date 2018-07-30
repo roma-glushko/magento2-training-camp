@@ -148,6 +148,25 @@ Add a befault billing and shipping address for registred customer.
 
 Merchant wants to configure a free shipping for orders that contains only products from "Samples" category.
 
+#### MRK-CR-2.
+
+Merchant wants create the 25% discount for orders that has grand total more than 1000$.
+
+#### MRK-CR-3.
+
+Create the two products:
+1. Product *Mac Book Air 2017* from *Laptops* category
+2. Product *Mac Book Cover Black* from *Laptop Accessories*
+Merchant wants to create the cart price rule to get free *Mac Book Cover Black* when you add the *Mac Book Air 2017* to cart.
+
+#### MRK-CR-4.
+
+Merchant wants to create coupon code "K111198K" for getting 50% discount.
+
+#### MRK-CR-5.
+
+Merchant wants to generate 50 couponts with 15% discount.
+
 ### Catalog Price Rules
 
 TBD
