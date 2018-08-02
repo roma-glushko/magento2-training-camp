@@ -167,6 +167,10 @@ Merchant wants to create coupon code "K111198K" for getting 50% discount.
 
 Merchant wants to generate 50 couponts with 15% discount.
 
+#### MRK-CR-6
+
+Merchant wants configure the cart price rule to get one free plate when you added 5 plates to cart.
+
 ### Catalog Price Rules
 
 TBD
