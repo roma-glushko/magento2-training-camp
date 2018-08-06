@@ -233,10 +233,10 @@ What is it Google Analytics? What's a purpose using it on the website? Which kin
 
 ### ECM-4. Question
 
-What is "SEO"? Why it's important for e-commerce? 
-What is search engine? Abstract architecture of search engines, main components.
-What do you know about meta tags?
-Describe please duplicated page content issue. How to fix it?
+- What is "SEO"? Why it's important for e-commerce? 
+- What is search engine? Abstract architecture of search engines, main components.
+- What do you know about meta tags?
+- Describe please duplicated page content issue. How to fix it?
 
 ### ECM-5. Question
 
@@ -252,7 +252,8 @@ What's "hosting"? Compare popular Magento hostings: MageMojo, Nexcess, Magento C
 
 ### ECM-8. Question
 
-
+- What's ADA? What rules are needed to be follow about website color schema, text, navigation to be complient with ADA?
+- Use http://wave.webaim.org/ to test your favourite website. What are issue being detected?
 
 ## Magento Architecture (MGA)
 
