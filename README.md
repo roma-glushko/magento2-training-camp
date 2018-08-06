@@ -254,6 +254,15 @@ What's "hosting"? Compare popular Magento hostings: MageMojo, Nexcess, Magento C
 
 - What's ADA? What rules are needed to be follow about website color schema, text, navigation to be complient with ADA?
 - Use http://wave.webaim.org/ to test your favourite website. What are issue being detected?
+- WCAG 2.0. A, AA, AAA levels
+
+### ECM-9. Question
+
+Explain social merchandising approach. Tools Magento provides to use this technique.
+
+### ECM-10. Question
+
+What does the acronym MOSCOW stand for? How is it used?
 
 ## Magento Architecture (MGA)
 
