@@ -260,11 +260,13 @@ What's "hosting"? Compare popular Magento hostings: MageMojo, Nexcess, Magento C
 
 Explain social merchandising approach. Tools Magento provides to use this technique.
 
-### ECM-10. Question
+## Project Management (PMG)
+
+### PMG-1
 
 What does the acronym MoSCoW stand for? How is it used?
 
-### ECM-11. Question
+### PMG-2
 
 What are SMART requirements?
 
