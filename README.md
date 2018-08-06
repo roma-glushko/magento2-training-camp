@@ -262,7 +262,7 @@ Explain social merchandising approach. Tools Magento provides to use this techni
 
 ### ECM-10. Question
 
-What does the acronym MOSCOW stand for? How is it used?
+What does the acronym MoSCoW stand for? How is it used?
 
 ## Magento Architecture (MGA)
 
