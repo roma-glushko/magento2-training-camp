@@ -155,9 +155,9 @@ Merchant wants create the 25% discount for orders that has grand total more than
 #### MRK-CR-3.
 
 Create the two products:
-1. Product *Mac Book Air 2017* from *Laptops* category
-2. Product *Mac Book Cover Black* from *Laptop Accessories*
-Merchant wants to create the cart price rule to get free *Mac Book Cover Black* when you add the *Mac Book Air 2017* to cart.
+- Product Mac Book Air 2017 from Laptops category
+- Product Mac Book Cover Black from Laptop Accessories
+Merchant wants to create the cart price rule to get free Mac Book Cover Black when you add the Mac Book Air 2017 to cart.
 
 #### MRK-CR-4.
 
