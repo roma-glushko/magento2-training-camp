@@ -264,6 +264,10 @@ Explain social merchandising approach. Tools Magento provides to use this techni
 
 What does the acronym MoSCoW stand for? How is it used?
 
+### ECM-11. Question
+
+What are SMART requirements?
+
 ## Magento Architecture (MGA)
 
 ### MGA-1. Question 
