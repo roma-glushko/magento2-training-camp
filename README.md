@@ -175,7 +175,18 @@ Merchant wants configure the cart price rule to get one free plate when you adde
 
 ### Catalog Price Rules
 
-TBD
+#### MRK-CPR-1
+
+Merchant wants configure catalog price rule for *Computer* category with 25% discount.
+
+#### MRK-CPR-2
+
+Merchant saw the *Discard subsequent rules* field in the catalog price rule form.
+Could you please, describe and show the behaviour of that option.
+
+#### MRK-CPR-3
+
+Merchant wants to configure sales from 10/09/2018 to 01/10/2018 for *Computer Accessories* category (15% discount).
 
 ## Content (CNT)
 
