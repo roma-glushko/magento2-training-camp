@@ -1,6 +1,6 @@
-# 📚 Magento 2 Solution Specialist Training Camp
+# Magento 2 Solution Specialist Training Camp
 
-Magento 2 Solution Specialist Training Camp is a study program that helps you to get familiar with Magento 2 platform 
+Magento 2 Solution Specialist Training Camp 📚is a study program that helps you to get familiar with Magento 2 platform 
 via tasks, use cases, user stories.
 
 ## 📈Checklist
