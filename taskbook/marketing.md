@@ -31,6 +31,13 @@ Merchant wants to generate 50 coupons with 15% discount.
 
 Merchant wants configure the cart price rule to get one free plate when you added 5 plates to cart.
 
+### MRK-CR-7
+
+Merchant wants to configure two Cart Rules.
+The first rule should add the free shipping to the cart if cart contains the products from *Computers* category.
+The second rule should apply to *Computers* category when the order totals more than 2000$.
+One more requirement from the client the first rule should NOT be applied when the second rule is applied.
+
 ## Catalog Price Rules
 
 ### MRK-CPR-1
