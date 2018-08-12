@@ -52,3 +52,16 @@ Could you please, describe and show the behaviour of that option.
 ### MRK-CPR-3
 
 Merchant wants to configure sales from 10/09/2018 to 01/10/2018 for `Computer Accessories` category (15% discount).
+
+## SEO & Search
+
+### MRK-SS-1
+
+The merchant wants to know what the benefit from sitemap feature?
+What the main goal of this feature?
+Could you please, provide an extended answer.
+
+### MRK-SS-2
+
+Create and generate new sitemap from admin panel.
+Provide the screensots of sitemap.xml file.
