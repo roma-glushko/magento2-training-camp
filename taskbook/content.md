@@ -26,3 +26,26 @@ Merchant wants to have a place on the store where will be rendered a information
 Merchant wants to have three CMS pages *computers-overview* (should contain information about computers with images) and *laptops-overview* (should contain information about laptops with images) and *accessories-overview* (should contain information about computer accessories).
 Also, he wants to have the *accessories-overview-link-block* CMS block that contains the link to *accessories-overview* page.
 This block should be included in the *computers-overview* and *laptops-overview* pages (in the bottom).
+
+## Design Configurations
+
+### CNT-DC-1. Case
+
+The merchant wants to protect his store and add the following robots rules to the store robots.txt file.
+```
+Disallow: /*?*
+Disallow: /*SID=*
+
+User-agent: Bingbot
+Crawl-delay: 2
+
+User-agent: BLEXBot
+User-agent: YandexBot
+User-agent: rogerBot
+User-agent: Baidu
+User-agent: SEMrushBot
+User-agent: YandexImages
+Disallow:   /
+```
+Please, do it via Design configurations.
+
