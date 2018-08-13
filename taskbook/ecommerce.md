@@ -40,3 +40,7 @@ What's "hosting"? Compare popular Magento hostings: MageMojo, Nexcess, Magento C
 ## ECM-9. Question
 
 Explain social merchandising approach. Tools Magento provides to use this technique.
+
+## ECM-10. Question
+
+What's TLS? Please describe difference/relations between TLS, SSL and HTTPS. Understand a basicaly algorithm of client-server communication via TLS
