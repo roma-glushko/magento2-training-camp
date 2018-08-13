@@ -32,3 +32,7 @@ Create test orders and provide the screenshots.
 ## CO-6. Task
 
 Create the order and reorder it via customer account.
+
+## CO-7. Task
+
+Create new customer account after checkout. (for checkout use an email that was not assigned to an existing customer).
