@@ -19,3 +19,10 @@ Merchant looks into a way of managing the same block of information about promot
 Merchant wants to have a place on the store where will be rendered a information for search engines: 
 
 "Check out our extensive range of chairs, seats & stools. Find inspiration and ideas for your home at YOURCHAIR.COM today." 
+
+
+### CNT-PB-5. Case
+
+Merchant wants to have three CMS pages *computers-overview* (should contain information about computers with images) and *laptops-overview* (should contain information about laptops with images) and *accessories-overview* (should contain information about computer accessories).
+Also, he wants to have the *accessories-overview-link-block* CMS block that contains the link to *accessories-overview* page.
+This block should be included in the *computers-overview* and *laptops-overview* pages (in the bottom).
