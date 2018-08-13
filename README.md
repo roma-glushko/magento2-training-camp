@@ -14,5 +14,5 @@ aligning default features in order to solve business problems.
 
 ## 💡Mind Map
 
-Resources that helps to every day to make decisions and don't forget a real power of default Magento features.
+Resources that helps to make decisions every day and don't forget a real power of default Magento features and relations between them.
 
