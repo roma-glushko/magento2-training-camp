@@ -10,17 +10,17 @@
 4. Place "Grand Total (Purchased)" column before "Bill-to Name" one.
 5. Order grid by "Purchase Data" column
 
-### SYS-MA-1. Task
-
-Provide a screenshot of orders created this month in the order grid page.
-
 ### SYS-MA-2. Task
 
-Please print invoices for 10 orders by one click using massactions.
+Provide a screenshot of orders from the order grid page created this month.
 
-### SYS-MA-3. Case
+### SYS-MA-3. Task
 
-Merchant needs to have a document with all orders created last month ASAP beacuse of tax due date. What's the faster way to supply this information? Document should be possible to open via account tools like Excel.
+Please print invoices for a couple of orders by one click using massactions.
+
+### SYS-MA-4. Case
+
+Merchant needs to have a document with all orders created last month ASAP because of tax due date. What's the faster way to supply this information? Document should be possible to open via account tools like Excel.
 
 ## System Data Transfer
 
