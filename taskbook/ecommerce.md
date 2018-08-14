@@ -39,7 +39,8 @@ What's "hosting"? Compare popular Magento hostings: MageMojo, Nexcess, Magento C
 
 ## ECM-9. Question
 
-Explain social merchandising approach. Tools Magento provides to use this technique.
+Explain social merchandising approach. Desribe differences betweem Social Media (2007) vs Social Marketing (2009) vs Social Merchandising (2013).
+Tools Magento provides to use this technique.
 
 ## ECM-10. Question
 
