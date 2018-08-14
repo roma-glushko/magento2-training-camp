@@ -23,7 +23,7 @@ What is it Google Analytics? What's a purpose using it on the website? Which kin
 
 What is "faceted search"? Does Magento support it? How to enable it if so?
 
-## ECM-6. Question
+## ECM-6. Case
 
 Merchant invests $1000 in Google AdWords and $2000 in Twitter ad last month. Data analytics counts that users from Google channel brought $2000 of total revenue and $500 from Twitter channel. What's return of investments of each channels? What channel is worth investing this month?
 
