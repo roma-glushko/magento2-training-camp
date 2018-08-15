@@ -65,3 +65,14 @@ Could you please, provide an extended answer.
 
 Create and generate new sitemap from admin panel.
 Provide the screensots of sitemap.xml file.
+
+### MRK-SS-3
+
+Merchant'd migrated the store from Magento 1 to Magento 2.
+The Google indexed pages from the old store, and for now these links lead to 404 error.
+Merchant wants you to change old links to new links via Url Rewrite feature.
+Links:
+Old link: computers.html should lead to the computer categories link
+Old link: computer-accessories.html should lead to computer accessories category.
+Use the permanent redirect type.
+
