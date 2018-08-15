@@ -49,3 +49,7 @@ What's TLS? Please describe difference/relations between TLS, SSL and HTTPS. Und
 ## ECM-11. Case
 
 In 2015, it was invested $10,000 in enquring X company. This company was sold further in 2017 and $12,000 was earned on this deal. The second deal was buying Z company by $5,000 and then selling by $6,000 during 2017. Can you please compare ROI of deals over the time? What was the most efficient deal amount these two?
+
+## ECM-12. Task
+
+How is it possible to implement affilate marketing on Magento 2?
