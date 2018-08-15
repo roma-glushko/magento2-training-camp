@@ -29,7 +29,7 @@ Merchant invested $1000 in Google AdWords and $2000 in Twitter ad last month. Da
 
 ## ECM-7. Question
 
-What's "hosting"? Compare popular Magento hostings: MageMojo, Nexcess, Magento Cloud, AWS
+What's "hosting"? Compare popular Magento hostings: MageMojo, Nexcess, Magento Cloud, AWS, DigitalOcean
 
 ## ECM-8. Question
 
@@ -53,3 +53,9 @@ In 2015, it was invested $10,000 in enquring X company. This company was sold fu
 ## ECM-12. Task
 
 How is it possible to implement affilate marketing on Magento 2?
+
+## ECM-13. Question
+
+Find using of auto-suggestions search strategy in Magento 2 platform.
+
+
