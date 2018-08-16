@@ -23,3 +23,13 @@ Merchant sells beding products to Germany, France and U.K. What optimal/simplest
 ### STS-SC-1. Case
 
 Merchant from Florida wants to see admin panel in his local time.
+
+## Store Attributes
+
+### STS-ATR-1
+
+Merchant wants to create new product attribute *Keyboard Color*.
+It will be dropdown attribute with 3 options:
+* Black
+* White
+* Green
