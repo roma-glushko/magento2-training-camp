@@ -5,7 +5,6 @@
 - Marketing Channel
 - Omnichannel
 - Multichannel
-- SEO
 - Affiliate marketing
 - Social marketing
 - Email marketing
@@ -18,7 +17,7 @@
 - ROI
 - Funnel
 - CTR
-- SEO / Canonical links / Img Alt attribute / Sitemap
+- SEO / Canonical links / Img Alt attribute / Sitemap / Robots.txt
 - Social merchandising
 
 ## Security
