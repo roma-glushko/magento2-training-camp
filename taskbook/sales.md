@@ -7,6 +7,10 @@
 
 Create order from the admin panel.
 
+### SAL-OR-2. Task
+
+Create reorder from the admin panel.
+
 ## Shipments
 
 TBD
