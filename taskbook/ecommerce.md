@@ -58,4 +58,6 @@ How is it possible to implement affilate marketing on Magento 2?
 
 Find using of auto-suggestions search strategy in Magento 2 platform.
 
+## ECM-14. Question
 
+What's robots.txt file? How can you enable this in Magento? 
