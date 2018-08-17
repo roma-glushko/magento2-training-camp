@@ -61,3 +61,11 @@ Find using of auto-suggestions search strategy in Magento 2 platform.
 ## ECM-14. Question
 
 What's robots.txt file? How can you enable this in Magento? 
+
+## ECM-15. Question
+
+Merchant mentioned that visit rate is increased this month, but converstion rate is decreased. What's possible cause of this?
+
+## ECM-16. Question
+
+Merchant has a website which is under development. What would you recomment to him to avoid indexing in SE this website till it's released?
