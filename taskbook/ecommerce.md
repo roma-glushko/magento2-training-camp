@@ -136,7 +136,7 @@ The ChairLux inc. is Florida (Columbia) based company selling chairs. It has two
 
 A couple of orders were fullfiled this month. Here is a list:
 
-1. Order #1000030
+#### Order #1000030
 
 2x Chair DDE-2 Vintage (1,000$)
 1x Table DDC-2 Modern (2,500$)
@@ -149,7 +149,7 @@ Billing and Shipping address:
 350 5th Avenue
 New York, NY 10118
 
-2. Order #1000031
+#### Order #1000031
 
 2x Table DDC-2 Modern (2,500$)
 
