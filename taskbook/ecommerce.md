@@ -159,3 +159,7 @@ Billing and Shipping address:
 Miami, FL 33132
 
 Can you please help merchant to report tax and fill documents?
+
+### ECM-TX-15. Case
+
+GoodWood company growths trees in Illinoise and sells them to FurnitureOfFuture company in Miami. FurnitureOfFuture sells furniture to local ratailers. How is obligated to pay taxes in this case?
