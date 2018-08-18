@@ -104,3 +104,20 @@ What's tax holidays? When do they take place? What's the common reason to have t
 
 What tax rules do apply to drop-shipping model od bussiness in U.S.? How is resonsible for tax collection?
 
+### ECM-TX-9. Case
+
+What would you suggest to do merchant with complex nexus in U.S. in order to calculate taxes in right way using Magento 2 and taking into account that tax rules/rates are being changed?
+
+### ECM-TX-10. Case
+
+Merchant sells T-shirts in New York to in-state customers. The price of items are about 20$. What would be a price of items for customers including tax?
+
+### ECM-TX-11. Case
+
+A webstore from TX sold 10 chairs this month to its in-state buyers. 
+What's tax value should be paid to goverment to avoid fine if the final price of each chair was 120$ and chairs were delivered via free shipping carrier.
+
+### ECM-TX-12. Case
+
+
+
