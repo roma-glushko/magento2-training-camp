@@ -119,5 +119,13 @@ What's tax value should be paid to goverment to avoid fine if the final price of
 
 ### ECM-TX-12. Case
 
+How much money Amazon should pay to Alaska goverment for purchases from the state?
 
+### ECM-TX-13. Case
 
+The website sells toys in New York. Actually each order is not being processed by the website itself. They are processed and devlivered by ToyFactory inc. which is a toy manufacturer in the state. Toy prices vary from 10$ to 1000$. 
+Who is responsible for collecting taxes in this case?
+
+### ECM-TX-13. Case
+
+Customer from Clark Country, Nevada wants to buy a few pants (100$) from a webstore based in the same location. He wants to use house delivery and it costs 20$ additionally. Also, he would like to apply a coupon which he have got from previouse purchase and it lowers price of his cart items by 10%. What would be the finall cart grand total of such cart if tax is needed to include as well?
