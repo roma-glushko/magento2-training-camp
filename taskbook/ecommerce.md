@@ -138,11 +138,10 @@ A couple of orders were fullfiled this month. Here is a list:
 
 #### Order #1000030
 
-2x Chair DDE-2 Vintage (1,000$)
-1x Table DDC-2 Modern (2,500$)
-15% OFF coupon
-
-Shipping Method: USPS 
+- 2x Chair DDE-2 Vintage (1,000$)
+- 1x Table DDC-2 Modern (2,500$)
+- 15% OFF coupon
+- Shipping Method: USPS 
 
 Billing and Shipping address:
 
@@ -151,9 +150,8 @@ New York, NY 10118
 
 #### Order #1000031
 
-2x Table DDC-2 Modern (2,500$)
-
-Shipping Method: free 
+- 2x Table DDC-2 Modern (2,500$)
+- Shipping Method: free 
 
 Billing and Shipping address:
 
