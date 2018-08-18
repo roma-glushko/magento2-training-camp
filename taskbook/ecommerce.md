@@ -69,3 +69,38 @@ Merchant mentioned that visit rate is increased this month, but converstion rate
 ## ECM-16. Question
 
 Merchant has a website which is under development. What would you recomment to him to avoid indexing in SE this website till it's released?
+
+## Tax (TX)
+
+### ECM-TX-1. Question
+
+How sale tax is obligated in U.S.? How is responsible for collecting taxes? On which level tax regulations are applied in U.S.? Which states are sale tax free? What's tax sourcing in U.S.?
+
+### ECM-TX-2. Question
+
+What is porposal of Streamlined Sales Tax Project(SST)? Main points of SSUTA. What companies are certificated service providers? Do they serve Magento merchants?
+
+### ECM-TX-3. Question
+
+What's Nexus in U.S. tax law? When it's applied? What's difference between Nexus and Sale Tax? Make up an example when nexus should be taken into account.
+
+### ECM-TX-4. Question
+
+What's the most accurate way of calucation taxes: based on zipcode or geolocation? Why?
+
+### ECM-TX-5. Question
+
+What's use tax in U.S.? When does it take place? What's difference between Use Tax and Sale Tax in U.S.?
+
+### ECM-TX-6. Case
+
+What rate of sale tax in Florida?
+
+### ECM-TX-7. Question
+
+What's tax holidays? When do they take place? What's the common reason to have tax holidays in state? On which level tax holidays is regulated?
+
+### ECM-TX-8. Question
+
+What tax rules do apply to drop-shipping model od bussiness in U.S.? How is resonsible for tax collection?
+
