@@ -129,3 +129,35 @@ Who is responsible for collecting taxes in this case?
 ### ECM-TX-13. Case
 
 Customer from Clark Country, Nevada wants to buy a few pants (100$) from a webstore based in the same location. He wants to use house delivery and it costs 20$ additionally. Also, he would like to apply a coupon which he have got from previouse purchase and it lowers price of his cart items by 10%. What would be the finall cart grand total of such cart if tax is needed to include as well?
+
+### ECM-TX-14. Case
+
+The ChairLux inc. is Florida (Columbia) based company selling chairs. It has two warehouses in Florida, one in Lowndes (Georgia) and affilates in NewYork city. They use USPS as a delivery service (20$).
+
+A couple of orders were fullfiled this month. Here is a list:
+
+1. Order #1000030
+
+2x Chair DDE-2 Vintage (1,000$)
+1x Table DDC-2 Modern (2,500$)
+15% OFF coupon
+
+Shipping Method: USPS 
+
+Billing and Shipping address:
+
+350 5th Avenue
+New York, NY 10118
+
+2. Order #1000031
+
+2x Table DDC-2 Modern (2,500$)
+
+Shipping Method: free 
+
+Billing and Shipping address:
+
+1435 Brickell Avenue
+Miami, FL 33132
+
+Can you please help merchant to report tax and fill documents?
