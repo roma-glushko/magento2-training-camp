@@ -59,13 +59,12 @@
 ## Taxes
 
 - VAT (Groups, Types) / Digital VAT
-- Nexus
 - WEEE / DEEE (FPT)
 - International Tax GuidLines
-- In-state and out-of-state taxes (?)
 - Cross-border taxes (?)
-- US and EU tax regulations (?)
-- GST tax
+- US sale tax regulations / Nexus / Use Tax / SST / Shipping Price Tax / Tax Sourcing / In-state and out-of-state taxes
+- EU tax regulations (?)
+- Canada: GST / HST / PST
 
 ## Third-Party Services
 
