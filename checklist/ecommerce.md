@@ -65,6 +65,7 @@
 - In-state and out-of-state taxes (?)
 - Cross-border taxes (?)
 - US and EU tax regulations (?)
+- GST tax
 
 ## Third-Party Services
 
