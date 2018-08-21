@@ -39,11 +39,12 @@
 
 ## Payment Methods
 
+- IPN
 - Payment Actions
 - Recurring profiles
 - PayPal Express Checkout / Braintree / Paypal Payment Advanced / PayPal Payment Standard / Paypal Payflow Pro (Verisign) / difference between all available PayPal options
 - Authorize.net
-- Cybersource (Commerce)
+- Cybersource (Commerce) / Features / Advantages for payers and merchants / Methods / Fee / Processing flow
 - eWAY (Commerce)
 - Worldpay (Commerce)
 - Check / Money Order
