@@ -102,7 +102,7 @@ What's tax holidays? When do they take place? What's the common reason to have t
 
 ### ECM-TX-8. Question
 
-What tax rules do apply to drop-shipping model od bussiness in U.S.? How is resonsible for tax collection?
+What tax rules do apply to drop-shipping model of business in U.S.? How is responsible  for tax collection?
 
 ### ECM-TX-9. Case
 
