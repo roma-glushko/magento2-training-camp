@@ -70,6 +70,10 @@ Merchant mentioned that visit rate is increased this month, but converstion rate
 
 Merchant has a website which is under development. What would you recomment to him to avoid indexing in SE this website till it's released?
 
+## ECM-17. Question
+
+What can increase sales in situations where customer has items in the cart but doesn't buy? 
+
 ## Tax (TX)
 
 ### ECM-TX-1. Question
