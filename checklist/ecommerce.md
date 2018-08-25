@@ -37,8 +37,8 @@
 
 ## System Development (?)
 
-- Agile (Scum) / Waterfall / definition of done of a task / User Stories
-- MoSCoW
+- Agile (Scum) / Waterfall / definition of done of a task / User Stories 
+- Requirements Gathering / MoSCoW
 - SMART
 
 ## Omnichannel (?)
