@@ -37,7 +37,7 @@
 
 ## System Development (?)
 
-- Agile (Scum) / Waterfall / definition of done of a task / User Stories 
+- Project Management / Agile (Scum) / Waterfall / Definition of Done / User Stories 
 - Requirements Gathering / MoSCoW
 - SMART
 
