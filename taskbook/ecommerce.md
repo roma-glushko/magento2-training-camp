@@ -185,6 +185,7 @@ What's VAT? How does it calculate generally? Please provide a simple example.
 - When VAT should be registered? Sales Revenue Threshold Rule. Distance Selling Rule. Inventory Storage Rule.
 - What's tax rate types available? 
 - How good prices should be displayed?
+- EU VAT sourcing 
 
 ### ECM-TX-18. Question
 
