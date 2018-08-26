@@ -206,3 +206,7 @@ Does shipping price taxable in EU?
 ### ECM-TX-22. Question
 
 What's possible ways to file taxes? What's Mini One-Stop Shop (MOSS)?
+
+### ECM-TX-23. Question
+
+What's regulations EU having on import/export goods/services?
