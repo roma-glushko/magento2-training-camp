@@ -226,34 +226,34 @@ A Italy-based company has registered VAT in Luxembourg. What's tax amount for ea
 - 3000 EUR from Luxembourg
 - 500 EUR from Spain
 
-### ECM-TX-25. Case
+### ECM-TX-27. Case
 
 GoodPlace is a U.S. based company to sell Android games. It has customers in Germany. What would you suggest it to avoid fines? Does company required to collect VAT?
 
-### ECM-TX-25. Case
+### ECM-TX-28. Case
 
 FootballCamp is a non-profit organization that populates sport in schools in U.K. Organization buys sport equpments and then supply schools and childrens who would like to play football. Does organization required to pay VAT?
 
-### ECM-TX-26. Case
+### ECM-TX-29. Case
 
 A merchant from Poland would like to export goods to Ukraine. Does he required to collect VAT? 
 
-### ECM-TX-27. Case
+### ECM-TX-30. Case
 
 A merchant from France is doing B2B with Germany. He have not registred to collect VAT in Germany. What's tax amount should be collected on 10,000 EUR transaction by both merchants?
 
-### ECM-TX-27. Case
+### ECM-TX-31. Case
 
 Reviewing revenue of a merchant, we see that he sold goods to German, Spain and Poland this and last years. He has registeraed VAT collection there. However, the merchant goals has been changed and now he doesn't want to sell to Poland, but would like to do it to U.S. instead. What would you suggest him to simplify this tax accounting?
 
-### ECM-TX-28. Case
+### ECM-TX-32. Case
 
 Assiting a big EU reseller, you see that he sells goods to almost 28 countries inside EU. Whould you suggest him to use MOSS of France where his bussiness has headquarters?
 
-### ECM-TX-29. Case
+### ECM-TX-33. Case
 
 Client from Vietnam would like to have an inventory in Hungary and start trading with the country. What's consiquences of such decision from tax law perspective? 
 
-### ECM-TX-30. Case
+### ECM-TX-34. Case
 
 Does small bussiness from Spain required to collect VAT from Italy's transactions?
