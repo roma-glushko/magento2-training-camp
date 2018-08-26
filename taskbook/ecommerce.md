@@ -210,3 +210,16 @@ What's possible ways to file taxes? What's Mini One-Stop Shop (MOSS)?
 ### ECM-TX-23. Question
 
 What's regulations EU having on import/export goods/services?
+
+### ECM-TX-24. Task
+
+GreenForest company growth forest and sells ability to cut an areas. WoodToday company cuts forest and sells/deliveries wood. ModernCabinets company creates and sells kitchen cabinets to their customer. Can you please calculate VAT returns for this abstract supply chain if VAT rate is 10% and GreenForest sells forest area to WoodToday by 100 EUR, WoodToday prepares the area and sells wood to ModernCabinets by 500 EUR and ModernCabinets assembles cabinets and sells them by 1000 EUR to final consumers? How is actully paid VAT in this case?
+
+### ECM-TX-25. Task
+
+Can you please help to calculate tax amount for domestic transactions of WestWood company from Germany if there are with the following total amounts: 1000 EUR, 2500 EUR, 10,000 EUR?
+
+### ECM-TX-26. Task
+
+
+
