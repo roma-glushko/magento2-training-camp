@@ -74,6 +74,13 @@ Merchant has a website which is under development. What would you recomment to h
 
 What can increase sales in situations where customer has items in the cart but doesn't buy? 
 
+## ECM-18. Question
+
+1. What's project management about? Principles of PM.
+2. Main concepts, terms of project management. Definition of Done
+3. Approaches of project management. Agile (Scrum vs Kanban) vs Waterfall vs Lean vs XP vs other approach families
+2. Tools of project management. User Stories
+
 ## Tax (TX)
 
 ### ECM-TX-1. Question
