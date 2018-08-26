@@ -253,3 +253,7 @@ Assiting a big EU reseller, you see that he sells goods to almost 28 countries i
 ### ECM-TX-29. Case
 
 Client from Vietnam would like to have an inventory in Hungary and start trading with the country. What's consiquences of such decision from tax law perspective? 
+
+### ECM-TX-30. Case
+
+Does small bussiness from Spain required to collect VAT from Italy's transactions?
