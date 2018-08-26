@@ -174,3 +174,34 @@ Can you please help merchant to report tax and fill documents?
 ### ECM-TX-15. Case
 
 GoodWood company growths trees in Illinoise and sells them to FurnitureOfFuture company in Miami. FurnitureOfFuture sells furniture to local ratailers. How is obligated to pay taxes in this case?
+
+### ECM-TX-16. Question
+
+What's VAT? How does it calculate generally? Please provide a simple example.
+
+### ECM-TX-17. Question
+
+- Please describe how VAT is implmeneted in EU. 
+- When VAT should be registered? Sales Revenue Threshold Rule. Distance Selling Rule. Inventory Storage Rule.
+- What's tax rate types available? 
+- How good prices should be displayed?
+
+### ECM-TX-18. Question
+
+What's difference between zero-rated tax and tax exemptions in EU?
+
+### ECM-TX-19. Question
+
+Difference between B2B and B2C VAT regulations in EU. What's Reverse Charge 0%?
+
+### ECM-TX-20. Question
+
+How do digital services taxes in EU?
+
+### ECM-TX-21. Question
+
+Does shipping price taxable in EU?
+
+### ECM-TX-22. Question
+
+What's possible ways to file taxes? What's Mini One-Stop Shop (MOSS)?
