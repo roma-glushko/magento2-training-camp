@@ -1,6 +1,6 @@
 # Marketing (MRK)
 
-## Cart Price Rules
+## Cart Price Rules (CR)
 
 ### MRK-CR-1.
 
@@ -38,7 +38,7 @@ The first rule should add the free shipping to the cart if cart contains the pro
 The second rule should apply to *Computers* category when the order totals more than 2000$.
 One more requirement from the client the first rule should NOT be applied when the second rule is applied.
 
-## Catalog Price Rules
+## Catalog Price Rules (CPR)
 
 ### MRK-CPR-1
 
@@ -53,7 +53,7 @@ Could you please, describe and show the behaviour of that option.
 
 Merchant wants to configure sales from 10/09/2018 to 01/10/2018 for `Computer Accessories` category (15% discount).
 
-## SEO & Search
+## SEO & Search (SS)
 
 ### MRK-SS-1
 
@@ -76,3 +76,11 @@ Old link: computers.html should lead to the computer categories link
 Old link: computer-accessories.html should lead to computer accessories category.
 Use the permanent redirect type.
 
+## Related products (RLP)
+
+### MRK-RLP-1
+
+- What's bussines/marketing porposal of having related products in Magento? What types of related products exists in Magento? 
+- Describe features and abilities of related products
+- Related products rules. Connections with other Magento entities (ex. Customer Segments)
+- Placements of related products on the frontend
