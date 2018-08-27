@@ -6,3 +6,13 @@
 - What's purpose of cache? Which cache types do exist in Magento? 
 - Which external caching systems can be used/supported by Magento?
 - Difference between flushing and cleaning cache in Magento
+
+## Mageto Services (MS)
+
+## MGA-MS-1
+
+- What's Magento Cloud? 
+- Which features it has out-of-box features and functions. Fastly. Blackfire. NewRelic.
+- Advantages of Magento Cloud
+- Magento Cloud Plans
+- Additional Features that can be enabled
