@@ -80,7 +80,7 @@ Use the permanent redirect type.
 
 ### MRK-RLP-1
 
-- What's bussines/marketing porposal of having related products in Magento? What types of related products exists in Magento? 
+- What's business/marketing proposal of having related products in Magento? - What types of related products exists in Magento?
 - Describe features and abilities of related products
 - Related products rules. Connections with other Magento entities (ex. Customer Segments)
 - Placements of related products on the frontend
