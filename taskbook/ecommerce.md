@@ -174,3 +174,86 @@ Can you please help merchant to report tax and fill documents?
 ### ECM-TX-15. Case
 
 GoodWood company growths trees in Illinoise and sells them to FurnitureOfFuture company in Miami. FurnitureOfFuture sells furniture to local ratailers. How is obligated to pay taxes in this case?
+
+### ECM-TX-16. Question
+
+What's VAT? How does it calculate generally? Please provide a simple example.
+
+### ECM-TX-17. Question
+
+- Please describe how VAT is implmeneted in EU. 
+- When VAT should be registered? Sales Revenue Threshold Rule. Distance Selling Rule. Inventory Storage Rule.
+- What's tax rate types available? 
+- How good prices should be displayed?
+- EU VAT sourcing 
+
+### ECM-TX-18. Question
+
+What's difference between zero-rated tax and tax exemptions in EU?
+
+### ECM-TX-19. Question
+
+Difference between B2B and B2C VAT regulations in EU. What's Reverse Charge 0%?
+
+### ECM-TX-20. Question
+
+How do digital services taxes in EU?
+
+### ECM-TX-21. Question
+
+Does shipping price taxable in EU?
+
+### ECM-TX-22. Question
+
+What's possible ways to file taxes? What's Mini One-Stop Shop (MOSS)?
+
+### ECM-TX-23. Question
+
+What's regulations EU having on import/export goods/services?
+
+### ECM-TX-24. Task
+
+GreenForest company growth forest and sells ability to cut an areas. WoodToday company cuts forest and sells/deliveries wood. ModernCabinets company creates and sells kitchen cabinets to their customer. Can you please calculate VAT returns for this abstract supply chain if VAT rate is 10% and GreenForest sells forest area to WoodToday by 100 EUR, WoodToday prepares the area and sells wood to ModernCabinets by 500 EUR and ModernCabinets assembles cabinets and sells them by 1000 EUR to final consumers? How is actully paid VAT in this case?
+
+### ECM-TX-25. Task
+
+Can you please help to calculate tax amount for domestic transactions of WestWood company from Germany if there are with the following total amounts: 1000 EUR, 2500 EUR, 10,000 EUR?
+
+### ECM-TX-26. Task
+
+A Italy-based company has registered VAT in Luxembourg. What's tax amount for each transaction:
+- 1000 EUR from Italy
+- 3000 EUR from Luxembourg
+- 500 EUR from Spain
+
+### ECM-TX-27. Case
+
+GoodPlace is a U.S. based company to sell Android games. It has customers in Germany. What would you suggest it to avoid fines? Does company required to collect VAT?
+
+### ECM-TX-28. Case
+
+FootballCamp is a non-profit organization that populates sport in schools in U.K. Organization buys sport equpments and then supply schools and childrens who would like to play football. Does organization required to pay VAT?
+
+### ECM-TX-29. Case
+
+A merchant from Poland would like to export goods to Ukraine. Does he required to collect VAT? 
+
+### ECM-TX-30. Case
+
+A merchant from France is doing B2B with Germany. He have not registred to collect VAT in Germany. What's tax amount should be collected on 10,000 EUR transaction by both merchants?
+
+### ECM-TX-31. Case
+
+Reviewing revenue of a merchant, we see that he sold goods to German, Spain and Poland this and last years. He has registeraed VAT collection there. However, the merchant goals has been changed and now he doesn't want to sell to Poland, but would like to do it to U.S. instead. What would you suggest him to simplify this tax accounting?
+
+### ECM-TX-32. Case
+
+Assiting a big EU reseller, you see that he sells goods to almost 28 countries inside EU. Whould you suggest him to use MOSS of France where his bussiness has headquarters?
+
+### ECM-TX-33. Case
+
+Client from Vietnam would like to have an inventory in Hungary and start trading with the country. What's consiquences of such decision from tax law perspective? 
+
+### ECM-TX-34. Case
+
+Does small bussiness from Spain required to collect VAT from Italy's transactions?
