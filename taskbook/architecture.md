@@ -7,7 +7,7 @@
 - Which external caching systems can be used/supported by Magento?
 - Difference between flushing and cleaning cache in Magento
 
-## Mageto Services (MS)
+## Magento Services (MS)
 
 ## MGA-MS-1. Question 
 

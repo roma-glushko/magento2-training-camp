@@ -63,8 +63,8 @@ Could you please, provide an extended answer.
 
 ### MRK-SS-2
 
-Create and generate new sitemap from admin panel.
-Provide the screensots of sitemap.xml file.
+Create and generate new site map from admin panel.
+Provide the screenshots of sitemap.xml file.
 
 ### MRK-SS-3
 

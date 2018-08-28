@@ -25,9 +25,9 @@
 
 - Magento Order Management
 - PageBuilder (Bluefoot) / Basic usage
-- B2B / Companis / Negotiated Quotes / Shared Catalogs / Requisiting Lists
+- B2B / Companies / Negotiated Quotes / Shared Catalogs / Requisition Lists
 - Magento Business Intelligence / Features / Connection with GA 
-- Magento Cloud / Out-of-Box Features and functions (Fastly, Blackfire) / Advantages / Tarrifs / Additional Features 
+- Magento Cloud / Out-of-Box Features and functions (Fastly, Blackfire) / Advantages / Plans / Additional Features 
 
 ## Search Architecture
 
