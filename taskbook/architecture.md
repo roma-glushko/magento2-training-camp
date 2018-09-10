@@ -31,6 +31,10 @@ What's Varnish server? What issue does it solve? How does Magento use it?
 
 What's web-server? How does it related to code? What web-servers does supported by Magento?
 
+## MGA-8. Question
+
+What's GIT? What issue does it solve? How does it used in Magento?
+
 ## Magento Services (MS)
 
 ## MGA-MS-1. Question 
