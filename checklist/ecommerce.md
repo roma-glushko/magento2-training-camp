@@ -19,6 +19,7 @@
 - CTR
 - SEO / Canonical links / Img Alt attribute / Sitemap / Robots.txt
 - Social merchandising
+- Endless Aisle Kiosk
 
 ## Security
 
