@@ -50,7 +50,7 @@
 - Check / Money Order
 - Cash on Delivery
 - Bank Transfer
-- Purchase Order (Commerce)
+- Purchase Order
 - Zero Subtotal Checkout
 - Billing Agreements
 - Reward points (Commerce)
