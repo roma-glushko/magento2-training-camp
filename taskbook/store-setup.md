@@ -29,11 +29,11 @@ Merchant started working with a new SEO agency and they suggests to change his c
 * Swiss website (it has one store and one store view assigned): https://www.domain.ch
 * International website (it has one store and one store view assigned): https://www.domain.com
 
-The agency is suggested to group website by language to keep website high in search results for german/english speeking people. So the stucture should be the following:
+The agency is suggested to group website by language to keep website high in search results for german/english speaking people. So the structure should be the following:
 
-* German-speeking websites: https://www.domain.de/de/ https://www.domain.de/at/ https://www.domain.de/ch/
+* German-speaking websites: https://www.domain.de/de/ https://www.domain.de/at/ https://www.domain.de/ch/
 
-* English-speeking websites: https://www.domain.com/en/
+* English-speaking websites: https://www.domain.com/en/
 
 The difference that we should have only two domains and rest of information should be matched by first part of URL (/de/, /at/, /ch/, etc). What actions are required on Magento side to make this worked?
 
