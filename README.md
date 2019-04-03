@@ -1,4 +1,7 @@
-# Magento 2 Solution Specialist Training Camp
+<p align="center">
+    <h1>Magento 2 Solution Specialist Training Camp</h1>
+    <img src="https://img.shields.io/badge/WIP-Work%20In%20Progress-yellow.svg" />
+</p>
 
 Magento 2 Solution Specialist Training Camp 📚is a study program that helps you to get familiar with Magento 2 platform and business logic behind it. The program consists of three parts: checklist, task book and mind map.
 
